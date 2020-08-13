@@ -1,6 +1,0 @@
-0d135118cfd33355d095026a8e5a4fadb45b97731e228c1476ecdfb49aaad0c3  go-release_v0.0.0-next_Windows_x86_64.tar.gz
-2bec502e5262f8ab588e69e63a2a29ed465c6833729d4b3ddc345f80b34dec53  go-release_v0.0.0-next_Windows_i386.tar.gz
-6f62564d3201093ee961ab6a4a5bcb32fe716c65b059d4b77df0b22cff214c01  go-release_v0.0.0-next_Linux_i386.tar.gz
-7c13967875de31c61af6eef72ae4a5f8137468eaa95dc4f539891ca2c46637ca  go-release_v0.0.0-next_Darwin_i386.tar.gz
-aaef55eaa0eb96ea63c7cba62ba3858864f5000b31de562bcdf9a0cf21f917bc  go-release_v0.0.0-next_Darwin_x86_64.tar.gz
-b8a8134802ef99b5acaea0950af8a613bad74fafc8352b780e2a14543dbc53a3  go-release_v0.0.0-next_Linux_x86_64.tar.gz
